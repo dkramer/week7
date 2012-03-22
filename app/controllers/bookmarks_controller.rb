@@ -19,5 +19,4 @@ class BookmarksController < ApplicationController
         render 'new'
     end
   end
-
 end
